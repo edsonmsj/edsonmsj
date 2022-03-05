@@ -1,17 +1,19 @@
-### Olá! Eu sou Edson Soares
+<h2>Olá! Eu sou Edson Soares</h2>
 <div align="left">
   <a href="https://github.com/edsonmsj">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonmsj&langs_count=8&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  <h4> Tecnologias que eu uso no meu dia</h4>
+<div style="display: inline_block">
+  <img align="center" alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
 <hr>
+  <h4>Redes sociais</h4>
 <div>
    <a href="https://web.whatsapp.com/send?phone=5562982796346" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edson-soares-750b57b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

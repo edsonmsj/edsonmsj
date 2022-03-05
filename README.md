@@ -1,5 +1,4 @@
-### Olá! Eu sou Edson Soares desenvolvedor web
-
+### Olá! Eu sou Edson Soares
 <div align="left">
   <a href="https://github.com/edsonmsj">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>

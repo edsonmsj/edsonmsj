@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://github.com/edsonmsj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsj&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsj&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <h4> Tecnologias que eu uso no meu dia</h4>
 <div style="display: inline_block">

@@ -1,5 +1,5 @@
 <h2>Olá! Eu sou Edson Soares</h2>
-<div align="center">
+<div align="left">
   <a href="https://github.com/edsonmsj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>

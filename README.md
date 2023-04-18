@@ -24,3 +24,9 @@
   <a href="https://www.instagram.com/edson_msj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rcemsj@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=edsonmsj&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+  </picture>
